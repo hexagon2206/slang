@@ -1,0 +1,67 @@
+len 0 VarWriteI
+len 9 VarWriteU
+varWriteU 10
+varWriteU 11
+varWriteU 12
+varWriteU 13
+varWriteU 14
+varWriteU 15
+varWriteU 16
+varWriteU 17
+varWriteU 18
+len 0 VarWriteD
+len 0 VarReadI
+len 29 VarReadU
+varReadU 10
+varReadU 0
+varReadU 1
+varReadU 11
+varReadU 2
+varReadU 12
+varReadU 3
+varReadU 13
+varReadU 4
+varReadU 14
+varReadU 5
+varReadU 15
+varReadU 6
+varReadU 16
+varReadU 7
+varReadU 17
+varReadU 8
+varReadU 18
+varReadU 9
+varReadU 19
+varReadU 20
+varReadU 21
+varReadU 22
+varReadU 23
+varReadU 24
+varReadU 25
+varReadU 26
+varReadU 27
+varReadU 28
+len 0 VarReadD
+len 0 MemAlloc
+len 0 MemDealloc
+len 9 MemWrite
+MemWrite 1
+MemWrite 2
+MemWrite 3
+MemWrite 4
+MemWrite 5
+MemWrite 6
+MemWrite 7
+MemWrite 8
+MemWrite 9
+len 10 MemRead
+MemRead 0
+MemRead 1
+MemRead 2
+MemRead 3
+MemRead 4
+MemRead 5
+MemRead 6
+MemRead 7
+MemRead 8
+MemRead 9

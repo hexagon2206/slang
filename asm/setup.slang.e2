@@ -1,0 +1,54 @@
+len 0 VarWriteI
+len 2 VarWriteU
+varWriteU 0
+varWriteU 1
+len 29 VarWriteD
+varWriteD 0
+varWriteD 1
+varWriteD 2
+varWriteD 3
+varWriteD 4
+varWriteD 5
+varWriteD 6
+varWriteD 7
+varWriteD 8
+varWriteD 9
+varWriteD 10
+varWriteD 11
+varWriteD 12
+varWriteD 13
+varWriteD 14
+varWriteD 15
+varWriteD 16
+varWriteD 17
+varWriteD 18
+varWriteD 19
+varWriteD 20
+varWriteD 21
+varWriteD 22
+varWriteD 23
+varWriteD 24
+varWriteD 25
+varWriteD 26
+varWriteD 27
+varWriteD 28
+len 0 VarReadI
+len 2 VarReadU
+varReadU 0
+varReadU 1
+len 0 VarReadD
+len 10 MemAlloc
+MemAlloc 0
+MemAlloc 1
+MemAlloc 2
+MemAlloc 3
+MemAlloc 4
+MemAlloc 5
+MemAlloc 6
+MemAlloc 7
+MemAlloc 8
+MemAlloc 9
+len 0 MemDealloc
+len 1 MemWrite
+MemWrite 0
+len 0 MemRead

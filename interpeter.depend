@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1522070608 source:/home/lukas/documents/dev/interpeter/main.cpp
+	<iostream>
+	<cstdint>
+	<fstream>
+	"interpeter.hpp"
+
+1522072278 source:/home/lukas/documents/dev/interpeter/interpeter.cpp
+	"interpeter.hpp"
+	<iostream>
+
+1522010632 /home/lukas/documents/dev/interpeter/interpeter.hpp
+	<stdint-gcc.h>
+	<cmath>
+	<fstream>
+

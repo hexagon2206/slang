@@ -1,0 +1,13 @@
+len 0 VarWriteI
+len 0 VarWriteU
+len 0 VarWriteD
+len 0 VarReadI
+len 0 VarReadU
+len 0 VarReadD
+len 0 MemAlloc
+len 0 MemDealloc
+len 1 MemWrite
+MemWrite 0
+len 2 MemRead
+MemRead 1
+MemRead 2

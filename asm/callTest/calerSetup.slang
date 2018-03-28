@@ -1,0 +1,3 @@
+newSlice
+OP_vektorMemoryAllocDirect 0 5
+OP_vektorMemoryAllocDirect 1 5

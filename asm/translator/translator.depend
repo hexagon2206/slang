@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1521802972 source:/home/lukas/documents/dev/interpeter/asm/translator/main.cpp
+	<iostream>
+	<fstream>
+	<string>
+
